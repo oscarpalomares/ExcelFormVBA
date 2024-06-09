@@ -36,3 +36,9 @@ It's possible to just generate the legal sheets of any user. This can be done ei
 This lets you generate specific legal sheets of many users in a desired range. It's dumb proof. It also lets you choose to open the legal sheet(s) after their creation. It's toggled on by default.
 
 ![Batch Generation](./Screenshots/manygenerations.png)
+
+# Legal Sheet
+
+Inside the code, you must adapt the columns, rows and cells to fill in the legal sheet and datasheet.
+
+![Legal Sheet Example](./Screenshots/doc.png)
